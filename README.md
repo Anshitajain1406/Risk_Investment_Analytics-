@@ -1,6 +1,9 @@
 Objective: The project analyzes data to identify patterns, calculate risks, or make predictions related to risk management.
+
 Libraries Used: The notebook uses Python libraries like pandas, numpy, and matplotlib, which are common in data analysis and visualization.
+
 Data Handling: Data exploration is being conducted, including loading and summarizing datasets.
+
 Domain: While the precise domain isn't explicitly mentioned, terms like "risk" and "analytics" suggest it may relate to financial risk, operational risk, or another quantifiable risk area.
 
 Interpretation
